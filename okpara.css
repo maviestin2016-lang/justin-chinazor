@@ -11,3 +11,6 @@ h2{
 h3{
     color: darkorange;
 }
+ h4{
+    color: color-mix(in hsl shorter hue, color percentage, color percentage);
+ }
