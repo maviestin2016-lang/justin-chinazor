@@ -15,9 +15,15 @@ h2{
     color: aquamarine;
     font-size: ;
 }
+#p3{
+    font-style: oblique;
+}
 
 h3{
     color: darkorange;
+}
+#p4{
+    font-style: normal;
 }
  h4{
     color: deepskyblue;
