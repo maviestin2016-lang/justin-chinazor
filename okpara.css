@@ -7,6 +7,9 @@ p{
     color: rgb(179, 104, 104);
     font-size: 20px;
     font-style: italic;
+} 
+#p2{
+    font-style: normal;
 }
 h2{
     color: aquamarine;
