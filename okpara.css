@@ -1,37 +1,31 @@
 h1{
- color: blueviolet;   
- font-size: 100px;
- text-decoration: underline;
+    color: blue
+    font-size: 100px
+    font-stye: normal
 }
 p{
-    color: rgb(179, 104, 104);
-    font-size: 20px;
-    font-style: italic;
-} 
-#p2{
-    font-style: normal;
-}
-h2{
-    color: aquamarine;
-    font-size: ;
-}
-#p3{
-    font-style: normal;
     color: black;
     font-size: 30px;
+    font-style: italic;
 }
-
-
-h3{
-    color: darkorange;
-}
-#p4{
-    font-style: normal;
-    color: black;
-}
- h4{
-    color: deepskyblue;
- }
- h5{
+h2{
     color: brown;
- }
+    font-size: 40px;
+
+    #p2{
+        font-style: normal;
+        font-size: 30px;
+        color: rgb(204, 12, 12);
+    }
+}
+h3{
+    color: rgb(133, 22, 238);
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+#p3{
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+}
