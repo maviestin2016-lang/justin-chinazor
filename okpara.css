@@ -11,13 +11,14 @@ p{
 h2{
     color: brown;
     font-size: 40px;
+    font-weight: 400;
 
     #p2{
         font-style: normal;
         font-size: 30px;
         color: rgb(204, 12, 12);
-        font-weight: bold;
-        border-color: red;
+        
+    
     
     }
 }
