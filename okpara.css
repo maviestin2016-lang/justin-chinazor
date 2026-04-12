@@ -17,6 +17,8 @@ h2{
         font-size: 30px;
         color: rgb(204, 12, 12);
         font-weight: bold;
+        border: 0cap;
+        background-color: blue;
     }
 }
 h3{
