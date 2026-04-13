@@ -24,10 +24,7 @@ h2{
         ;color: brown;
         font-size: x-large;
     }
-    
-    img3{
-        align-items: center;
-    }
+
     
 
 h3{
@@ -36,8 +33,9 @@ h3{
     font-style: italic;
     
 
-im
-    
+ container: img3 {
+    text-align:center;
+ };
 
 
 
