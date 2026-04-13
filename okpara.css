@@ -33,8 +33,9 @@ h3{
     
 
 img{
-    align-center
-    
+    display: block;
+    text-align: center;
+
 }
 
 
