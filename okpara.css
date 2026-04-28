@@ -18,6 +18,12 @@
     color: red;
   }
 
+  h4{
+    font-style: oblique;
+    flex-direction: column-reverse;
+    color: aqua;
+    font-size: large;
+  }
 
 
 
